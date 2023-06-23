@@ -8,5 +8,5 @@
 
 
 git add .
-git commit -m "changed ......"
+git commit -m "added two variables"
 git push -u origin master
