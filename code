@@ -1,12 +1,12 @@
 1.git init
 2.git config user.email "markmote12@gmail.com"
 3.git add .
-4.git commit -m "added two variables"
+4.git commit -m "added something"
 5. replace with yours - git remote add origin https://github.com/devtedke/devtedke.git
 6.git push -u origin master
 
 
 
 git add .
-git commit -m "added two variables"
+git commit -m "simple calculator"
 git push -u origin master
