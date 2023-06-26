@@ -8,5 +8,5 @@
 
 
 git add .
-git commit -m "simple calculator"
+git commit -m "area calc"
 git push -u origin master
