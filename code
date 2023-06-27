@@ -8,5 +8,5 @@
 
 
 git add .
-git commit -m "data types"
+git commit -m "simple scoresystem"
 git push -u origin master
