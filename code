@@ -8,5 +8,5 @@
 
 
 git add .
-git commit -m "bmi calc"
+git commit -m "data types"
 git push -u origin master
