@@ -8,5 +8,5 @@
 
 
 git add .
-git commit -m "simple scoresystem"
+git commit -m "betting"
 git push -u origin master
