@@ -3,7 +3,7 @@ weight = float(user_weight)
 user_height = input("Enter height in meters")
 height = float(user_height)
 calc_bmi = weight/(height*height)
-if calc_bmi < 18:
+if calc_bmi <= 18:
     print("Underweight")
 elif 18.1 <= calc_bmi <= 29:
     print("Normal weight")
