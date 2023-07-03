@@ -8,5 +8,5 @@
 
 
 git add .
-git commit -m "betting"
+git commit -m "dictionaries"
 git push -u origin master
