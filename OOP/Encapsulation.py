@@ -19,6 +19,6 @@ class Derived(Base):
 # create an instance of the parent class
 obj1 = Base()
 print(obj1.a)
-# print(obj1.c) #- "you dont have rights and permission
+# print(obj1.c) #- "you dont have rights and permission"
 print(obj1.d)
 print(obj1.e)
